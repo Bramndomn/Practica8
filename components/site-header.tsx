@@ -4,6 +4,7 @@ import { business } from '@/lib/business'
 const navItems = [
   { href: '/#nosotros', label: 'Nosotros' },
   { href: '/#buffet', label: 'Buffet' },
+  { href: '/#reservar', label: 'Reservar' },
   { href: '/#ubicacion', label: 'Ubicación' },
 ]
 
