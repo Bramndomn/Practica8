@@ -1,7 +1,7 @@
 const offerings = [
   {
-    image: '/images/buffet.png',
-    alt: 'Mesa de buffet con cazuelas de barro con chilaquiles, huevos, frijoles, tamales, pan dulce y fruta',
+    image: '/images/buffet-real.png',
+    alt: 'Taza de barro con chocolate caliente y canasta de pan sobre una mesa en el jardín de Terraza Angelo',
     title: 'Desayuno buffet mexicano',
     text: 'Cazuelas con platillos tradicionales para servirte a tu gusto, todas las veces que quieras durante el horario de servicio.',
   },
